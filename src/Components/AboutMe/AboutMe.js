@@ -1,7 +1,6 @@
 import React from 'react';
 import './AboutMe.css';
 import shoab from './../../images/shoab.jpg'
-import Footer from '../Share/Footer/Footer';
 const AboutMe = () => {
     return (
         <div className="">

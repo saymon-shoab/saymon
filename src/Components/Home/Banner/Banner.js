@@ -10,7 +10,7 @@ const Banner = () => {
                     <h3 >Hi, I am Saymon Shoab</h3>
                     <h4>WEB DEVELOPER</h4>
                     <div class="header-button">
-                    <a href="https://drive.google.com/file/d/1n7lsCzccyaMDqK5WQMmG3L-jfKzRVi-1/view?usp=sharing" target="blank">resume</a>
+                    <a href="https://drive.google.com/file/d/1UoIz18v9F6j4-bMDYAnBF5vBB-0i0mMO/view" target="blank">resume</a>
                    
                      </div>
                     </div>
